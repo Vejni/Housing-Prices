@@ -1,0 +1,2 @@
+# Housing Prices Regression Problem
+The sample data and approach is taken from the online course Machine Learning on Coursera from Stanford University. The exercise is about predicting the price of a housing based on its size and number of bedrooms. In this project I compared 3 approaches to solving this same problem.
