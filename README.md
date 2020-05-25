@@ -1,2 +1,3 @@
 # Housing Prices Regression Problem
-The sample data and approach is taken from the online course Machine Learning on Coursera from Stanford University. The exercise is about predicting the price of a housing based on its size and number of bedrooms. In this project I compared 3 approaches to solving this same problem.
+
+This project is a follow along of the online course Machine Learning on Coursera from Stanford University, and as such, the sample data and approach is taken from there. My goal is to see if I can implement the solutions in Python rather than MATLAB as the course requires. To explore and discuss some ideas further, I decided to code in Jupyter Notebook. 
